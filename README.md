@@ -2,7 +2,7 @@
 
 Sitio web informativo y funcional para la aerolínea costarricense Fly74, desarrollado con **React** y **Tailwind CSS**, con diseño moderno, responsivo y desplegado en **Vercel**.
 
-🌐 Sitio en producción: https://aerolinea74.vercel.app
+🌐 Sitio en producción: https://fly74.com 
 
 ---
 
